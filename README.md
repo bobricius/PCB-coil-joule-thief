@@ -1,6 +1,7 @@
 # PCB coil joule thief
 
 Hardware licensed under CERN OHL 1.2
+
 Documentation licensed under CC-BY 4.0
 
 Some measurements
